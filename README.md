@@ -72,6 +72,13 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 <p><a href="https://ayiin.vercel.app"><img src="https://img.shields.io/badge/AYIIN-UBOT-aqua?style=plastic"width="200" /></a></p>
 
+</details>
+
+
+# Updates & Support
+
+Follow Channel [@AyiinChannel](https://t.me/AyiinChannel) untuk info Update bot dan Gabung Group [@AyiinChats](https://t.me/AyiinChats) untuk untuk diskusi, pelaporan bug, dan bantuan tentang AyiinUbot.
+
 
 # © Credits
 -  [Zèmaa](https://github.com/zesvnteen)
